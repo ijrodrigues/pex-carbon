@@ -14,7 +14,7 @@ Este projeto foi desenvolvido como parte da disciplina "Projeto de Extensão I" 
 
 Você pode acessar a versão online da aplicação através do seguinte link:
 
-**[Acessar CarbonCalc](https://agenda-mais-fe-git-dev-ijrodrigues-projects.vercel.app/#/)**
+**[Acessar CarbonCalc](https://pex-carbon.vercel.app)**
 
 ### Screenshots do Projeto
 
