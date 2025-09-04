@@ -10,6 +10,29 @@
 
 Este projeto foi desenvolvido como parte da disciplina "Projeto de Extensão I" e teve como objetivo principal a criação de uma aplicação web interativa para calcular a pegada de carbono de empresas. A iniciativa visa aplicar os conhecimentos acadêmicos em desenvolvimento de sistemas para criar uma ferramenta de impacto social e ambiental, alinhada a diversos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
+## Como acessar
+
+Você pode acessar a versão online da aplicação através do seguinte link:
+
+**[Acessar CarbonCalc](https://agenda-mais-fe-git-dev-ijrodrigues-projects.vercel.app/#/)**
+
+### Screenshots do Projeto
+
+<p align="center">
+  <em>Tela inicial e seção informativa</em><br>
+  <img src="screenshots/hero.png" alt="Tela inicial da Calculadora de Pegada de Carbono" width="80%">
+</p>
+<br>
+<p align="center">
+  <em>Interface da calculadora com modal de adição de atividade</em><br>
+  <img src="screenshots/form.png" alt="Interface da calculadora com modal" width="80%">
+</p>
+<br>
+<p align="center">
+  <em>Tela de resultados com gráfico e recomendações</em><br>
+  <img src="screenshots/result.png" alt="Tela de resultados com gráfico" width="80%">
+</p>
+
 ## Descrição da Atividade
 
 As atividades realizadas durante o desenvolvimento do projeto podem ser divididas nas seguintes etapas:
@@ -50,26 +73,3 @@ Os principais aprendizados e resultados são:
 *   **Desenvolvimento de Soft Skills:** O projeto exigiu habilidades de pesquisa, planejamento, resolução de problemas e atenção aos detalhes, competências fundamentais para a carreira em Análise e Desenvolvimento de Sistemas.
 
 Em suma, o Projeto de Extensão I foi uma experiência enriquecedora que resultou em um produto de software com propósito e qualidade.
-
-## Como acessar
-
-Você pode acessar a versão online da aplicação através do seguinte link:
-
-**[Acessar CarbonCalc](https://agenda-mais-fe-git-dev-ijrodrigues-projects.vercel.app/#/)**
-
-### Screenshots do Projeto
-
-<p align="center">
-  <em>Tela inicial e seção informativa</em><br>
-  <img src="screenshots/s1.png" alt="Tela inicial da Calculadora de Pegada de Carbono" width="80%">
-</p>
-<br>
-<p align="center">
-  <em>Interface da calculadora com modal de adição de atividade</em><br>
-  <img src="screenshots/s2.png" alt="Interface da calculadora com modal" width="80%">
-</p>
-<br>
-<p align="center">
-  <em>Tela de resultados com gráfico e recomendações</em><br>
-  <img src="screenshots/s3.png" alt="Tela de resultados com gráfico" width="80%">
-</p>
